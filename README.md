@@ -47,20 +47,18 @@
 # 适合新手的开源项目
 
 * [联机五子棋（c实现）](https://github.com/youngyangyang04/Gomoku)
-* [fileHttpServer(go语言实现)] (https://github.com/youngyangyang04/fileHttpServer)
+* [fileHttpServer(go语言实现)](https://github.com/youngyangyang04/fileHttpServer)
 * [Sqlgen（shell脚本实现的批量操作mysql）](https://github.com/youngyangyang04/PowerSqlgen)
 * [单机存储引擎（C++实现的跳表）](https://github.com/youngyangyang04/Skiplist-CPP)
 * [NosqlAttack （python实现）](https://github.com/youngyangyang04/NoSQLAttack)
 
 # 联系我 
-
 <a name="微信"></a>
-
-<img src="https://img-blog.csdnimg.cn/20200712231206226.jpeg" data-img="1" width="300" height="300">
+<img src="https://img-blog.csdnimg.cn/20200712232919673.jpeg" data-img="1" width="175" height="175">
 
 # 公众号
 
-文章持续更新，可以关注公众号「 代码随想录 」第一时间阅读，关注后回复：「C++」「C++进阶书籍」「算法与数据结构」「简历模板」 等等关键字就可以获得我多年整理出来的学习资料。求职内推也可以在公众号里找到我！
+文章持续更新，可以关注公众号「 代码随想录 」第一时间阅读，关注后回复：「C++」「C++进阶书籍」「算法与数据结构」「简历模板」 等等关键字就可以获得我多年整理出来的学习资料。大厂求职内推也可以在公众号里找到我！
 
 <a name="公众号"></a>
-<img src="https://img-blog.csdnimg.cn/20200323202104335.jpg" data-img="1" width="300" height="300">
+<img src="https://img-blog.csdnimg.cn/20200323202104335.jpg" data-img="1" width="200" height="200">
