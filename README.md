@@ -3,12 +3,11 @@
 
 <p align="center">
   <a href="#微信"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen" alt="微信群"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E4%BB%A3%E7%A0%81%E9%9A%8F%E6%83%B3%E5%BD%95-yellowgreen" alt="公众号"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E4%BB%A3%E7%A0%81%E9%9A%8F%E6%83%B3%E5%BD%95-blue" alt="公众号"></a>
   <a href="https://www.toutiao.com/c/user/60356270818/#mid=1633692776932365"><img src="https://img.shields.io/badge/toutiao-%E4%BB%A3%E7%A0%81%E9%9A%8F%E6%83%B3%E5%BD%95-yellow" alt=""></a>
   <a href="https://www.zhihu.com/people/sun-xiu-yang-64"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt=""></a>
   <a href="https://blog.csdn.net/youngyangyang04"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt=""></a>
-
-  <a href="https://cloud.tencent.com/developer/user/2226365/activities"><img src="https://img.shields.io/badge/%E8%85%BE%E8%AE%AF-%E4%BA%91%E7%A4%BE%E5%8C%BA-orange" alt=""></a>
+  <a href="https://cloud.tencent.com/developer/user/2226365/activities"><img src="https://img.shields.io/badge/%E8%85%BE%E8%AE%AF-%E4%BA%91%E7%A4%BE%E5%8C%BA-brightgreen" alt=""></a>
   <a href="https://www.cnblogs.com/youngyangyang04/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt=""></a>
 </p>
 
@@ -53,6 +52,15 @@
 * [单机存储引擎（C++实现的跳表）](https://github.com/youngyangyang04/Skiplist-CPP)
 * [NosqlAttack （python实现）](https://github.com/youngyangyang04/NoSQLAttack)
 
+# 联系我 
 
-  <a name="微信"></a>  <a name="公众号"></a>
+<a name="微信"></a>
+
+<img src="https://img-blog.csdnimg.cn/20200712231206226.jpeg" data-img="1" width="300" height="300">
+
+# 公众号
+
+文章持续更新，可以关注公众号「 代码随想录 」第一时间阅读，关注后回复：「C++」「C++进阶书籍」「算法与数据结构」「简历模板」 等等关键字就可以获得我多年整理出来的学习资料。求职内推也可以在公众号里找到我！
+
+<a name="公众号"></a>
 <img src="https://img-blog.csdnimg.cn/20200323202104335.jpg" data-img="1" width="300" height="300">
