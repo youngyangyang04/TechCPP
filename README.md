@@ -11,11 +11,11 @@
   <a href="https://www.cnblogs.com/youngyangyang04/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt=""></a>
 </p>
 
-没有连接的内容就是还没有写，笔者在赶稿中ing....
+以下没有连接的内容就是还没有写，笔者正在拼命赶稿ing....
 
 # 编程语言C++
 
-* [大厂程序员教你如何学习C++（内附学习资料）](https://mp.weixin.qq.com/s/Gwtu4mc43YVFlX46yu_WDg)
+* [大厂程序员教你如何学习C++](https://mp.weixin.qq.com/s/Gwtu4mc43YVFlX46yu_WDg)
 * C++: volatile static const extern等关键字 
 * 常用库函数实现
     * malloc,strcpy,strcmp的实现，常用库函数实现，哪些库函数属于高危函数
