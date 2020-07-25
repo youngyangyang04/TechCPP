@@ -109,14 +109,12 @@
 
 # linux下操作命令以及工具
 
+* [工作中常用的linux 命令](./docs/linux常用操作命令.md)
 * 编译工具GCC 
 * 调试工具GDB
 * 性能优化工具Perf 
 * 内存泄露检查工具Valgrind
 * makefile编写
-* linux 常用命令
-* netstat,ps,top,df,fdisk,lsof，ifconfig,uname,kill，tcpdump，ipcs，grep
-
 
 # 程序员求职
 
