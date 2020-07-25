@@ -1,4 +1,4 @@
-如下是C++后台研发技术路线已经知识点，这里有很多细节，还需要不断完善。 欢迎大家通过[【公众号】](#公众号) 或者加我[【微信】](#微信) 与我交流，一起成长一起进步！
+如下是C++后台研发技术路线以及知识点，这里有很多细节，还需要不断完善。 欢迎大家通过[【公众号】](#公众号) 或者加我[【微信】](#微信) 与我交流，一起成长一起进步！
 
 
 <p align="center">
@@ -11,6 +11,7 @@
   <a href="https://www.cnblogs.com/youngyangyang04/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt=""></a>
 </p>
 
+没有连接的内容就是还没有写，笔者在赶稿中ing....
 
 # 编程语言C++
 
@@ -43,7 +44,12 @@
 * [程序员算法面试中，必须掌握的数组理论知识](https://mp.weixin.qq.com/s/X7R55wSENyY62le0Fiawsg)
 * [这五道数组相关的面试题，你一定要会！](https://mp.weixin.qq.com/s/vdKHt2vFSZEouZASjdWieg)
 * [关于哈希表，你该了解这些！](https://mp.weixin.qq.com/s/g8N6WmoQmsCUw3_BaWxHZA)
-
+* 精选链表相关的面试题
+* 精选哈希表相关的面试题
+* 精选字符串相关的面试题
+* 精选栈与队列相关的面试题
+* 精选二叉树相关的面试题
+* 精选递归与回溯面试题
 
 # 设计模式
 
@@ -119,7 +125,7 @@
 # 程序员求职
 
 * [简历模板](https://github.com/youngyangyang04/Markdown-Resume-Template)
-* [程序员要如何写简历（附简历模板）](https://mp.weixin.qq.com/s/PkBpde0PV65dJjj9zZJYtg)
+* [程序员要如何写简历](https://mp.weixin.qq.com/s/PkBpde0PV65dJjj9zZJYtg)
 * [适合新手练习的Github小项目（代码简单，功能实用）](https://mp.weixin.qq.com/s/Bc8Co6TiYxhbrzGLfSrISA)
 * [一线互联网公司技术面试的流程以及注意事项](https://mp.weixin.qq.com/s/1VMvQ_6HbVpEn85CNilTiw)
 * [如何使用markdown来制作一份自己的简历](https://mp.weixin.qq.com/s/ejvKML-NmEzok15GOzs62A)
