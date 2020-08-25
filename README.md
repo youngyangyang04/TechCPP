@@ -35,7 +35,7 @@
 * 写string类的构造，析构，拷贝函数
 
 # 数据结构与算法
-* [leetcode面试高频题目题解](https://github.com/youngyangyang04/leetcode-master)
+* [leetcode刷题攻略](https://github.com/youngyangyang04/leetcode-master)
 * [刷leetcode的时候，究竟什么时候可以使用库函数，什么时候不要使用库函数，过来人来说一说](./docs/刷leetcode究竟要不要使用库函数.md)
 * [究竟什么是时间复杂度，怎么求时间复杂度，看这一篇就够了](https://mp.weixin.qq.com/s/lYL9TSxLqCeFXIdjt4dcIw)
 * [一文带你彻底理解程序为什么会超时](https://mp.weixin.qq.com/s/T-vcJSkq2-0s0bBB-itWbQ)
@@ -46,6 +46,7 @@
 * [这五道数组相关的面试题，你一定要会！](https://mp.weixin.qq.com/s/vdKHt2vFSZEouZASjdWieg)
 * [关于哈希表，你该了解这些！](https://mp.weixin.qq.com/s/g8N6WmoQmsCUw3_BaWxHZA)
 * [这六道哈希表相关的面试题，你一定要会！](https://mp.weixin.qq.com/s/nxuWv5cUhCPSbAdIHtWgSg)
+* [关于链表，你该了解这些！](https://mp.weixin.qq.com/s/ntlZbEdKgnFQKZkSUAOSpQ)
 * 精选链表相关的面试题
 * 精选字符串相关的面试题
 * 精选栈与队列相关的面试题
@@ -70,6 +71,8 @@
 * linux系统的各类同步机制、linux系统的各类异步机制
 * 如何实现守护进程
 * 标准库函数和系统调用的区别
+
+# linux 服务器
 * 32位系统一个进程最多有多少堆内存
 * 五种I/O 模式:阻塞I/O,非阻塞 I/O,I/O 多路复用,信号驱动 I/O,异步 I/O
     * select 模型和 poll 模型，epoll模型
@@ -149,16 +152,22 @@
 * [单机存储引擎（C++实现的跳表）](https://github.com/youngyangyang04/Skiplist-CPP)
 * [NosqlAttack （python实现）](https://github.com/youngyangyang04/NoSQLAttack)
 
-# 关于作者 
+# 关于作者
 
-大家好，我是程序员Carl，ACM区域赛铜牌获得者，哈工大计算机硕士毕业，先后在腾讯和百度从事后端技术研发，CSDN博客专家。我的微信：
+大家好，我是程序员Carl，ACM 校赛、黑龙江省赛、东北四省赛金牌，和亚洲区域赛铜牌获得者，哈工大计算机硕士毕业，先后在腾讯和百度从事后端技术研发，CSDN博客专家。对算法和C++后端技术有一定的见解，目前在利用工作之余重新刷leetcode。
+
+想和我一起刷题的小伙伴**可以加我的微信，备注：组队刷题**， 拉你进刷题群，每天一道经典题目分析，而且题目不是孤立的，每一道题目之间都是有关系的，都是由浅入深一脉相承的，所以学习效果最好是每篇连续着看，也许之前你会某些知识点，但是一直没有把知识点串起来，这里每天一篇文章就会帮你把知识点串起来。我也花了不少精力来整理我的题解，**而且我不会在群里发任何广告，纯自己学习和分享。 欢迎你的加入！**
 
 <a name="微信"></a>
 <img src="https://img-blog.csdnimg.cn/20200712232919673.jpeg" data-img="1" width="175" height="175">
 
-# 公众号
+# 我的公众号
 
-文章持续更新，可以关注公众号「 代码随想录 」第一时间阅读，关注后回复：「C++」「C++进阶书籍」「算法与数据结构」「简历模板」 等等关键字就可以获得我多年整理出来的学习资料。大厂求职内推也可以在公众号里找到我！
+更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复： 「简历模板」「java」「C++」「python」「算法与数据结构」 等关键字就可以获得我多年整理出来的学习资料。
+
+**每天8：35准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**
 
 <a name="公众号"></a>
-<img src="https://img-blog.csdnimg.cn/20200723191759119.jpg" data-img="1" width="200" height="200">
+
+<img src="https://img-blog.csdnimg.cn/20200323202104335.jpg" data-img="1" width="200" height="200">
+
