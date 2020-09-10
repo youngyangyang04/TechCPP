@@ -13,6 +13,27 @@ int main()
 }
 ```
 
+## 测试缓冲区代码
+
+```
+void test_stream1() {
+    cout << "代码随想录";
+}
+
+void test_stream2() {
+    cout << "代码随想录";
+    while (1) {
+    }
+}
+
+void test_stream3() {
+    cout << "代码随想录"<< endl;
+    while (1) {
+    }
+}
+
+```
+
 # 1.4.3
 
 ```
@@ -76,4 +97,5 @@ int main()
     return 0;
 }
 ```
+
 
