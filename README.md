@@ -35,23 +35,8 @@
 * 写string类的构造，析构，拷贝函数
 
 # 数据结构与算法
-* [leetcode刷题攻略](https://github.com/youngyangyang04/leetcode-master)
-* [刷leetcode的时候，究竟什么时候可以使用库函数，什么时候不要使用库函数，过来人来说一说](./docs/刷leetcode究竟要不要使用库函数.md)
-* [究竟什么是时间复杂度，怎么求时间复杂度，看这一篇就够了](https://mp.weixin.qq.com/s/lYL9TSxLqCeFXIdjt4dcIw)
-* [一文带你彻底理解程序为什么会超时](https://mp.weixin.qq.com/s/T-vcJSkq2-0s0bBB-itWbQ)
-* [一场面试，带你彻底掌握递归算法的时间复杂度](https://mp.weixin.qq.com/s/Kt-Mvs8LeVqidLGUqySj1g)
-* [算法分析中的空间复杂度，你真的会了么？](https://mp.weixin.qq.com/s/sXjjnOUEQ4Gf5F9QCRzy7g)
-* [二分法其实很简单，为什么老是写不对！！](https://mp.weixin.qq.com/s/ICdahBRWbbEeEWHKjC8Alw)
-* [程序员算法面试中，必须掌握的数组理论知识](https://mp.weixin.qq.com/s/X7R55wSENyY62le0Fiawsg)
-* [这五道数组相关的面试题，你一定要会！](https://mp.weixin.qq.com/s/vdKHt2vFSZEouZASjdWieg)
-* [关于哈希表，你该了解这些！](https://mp.weixin.qq.com/s/g8N6WmoQmsCUw3_BaWxHZA)
-* [这六道哈希表相关的面试题，你一定要会！](https://mp.weixin.qq.com/s/nxuWv5cUhCPSbAdIHtWgSg)
-* [关于链表，你该了解这些！](https://mp.weixin.qq.com/s/ntlZbEdKgnFQKZkSUAOSpQ)
-* 精选链表相关的面试题
-* 精选字符串相关的面试题
-* 精选栈与队列相关的面试题
-* 精选二叉树相关的面试题
-* 精选递归与回溯面试题
+
+* [数据结构与算法学习攻略](https://github.com/youngyangyang04/leetcode-master)
 
 # 设计模式
 
