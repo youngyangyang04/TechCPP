@@ -16,6 +16,7 @@
 # 编程语言C++
 
 * [大厂程序员教你如何学习C++](https://mp.weixin.qq.com/s/Gwtu4mc43YVFlX46yu_WDg)
+* [C++primer5笔记代码资料](https://github.com/youngyangyang04/TechCPP/tree/master/docs/C++primer5笔记代码资料)
 * C++: volatile static const extern等关键字 
 * 常用库函数实现
     * malloc,strcpy,strcmp的实现，常用库函数实现，哪些库函数属于高危函数
