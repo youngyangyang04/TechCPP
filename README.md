@@ -13,9 +13,17 @@
 
 以下没有连接的内容就是还没有写，笔者正在拼命赶稿ing....
 
+# C++primer B站视频讲解 
+
+* [学习C++书籍推荐](https://www.bilibili.com/video/BV1rK4y1e7ed)
+* [听说C++ primer 太厚了 看不进去？](https://www.bilibili.com/video/BV1Z5411874t)
+* [C++ primer 第一章，你要知道的知识点还有这些！](https://www.bilibili.com/video/BV1Kv41117Ya)
+* [C++ primer 第二章，前两节](https://www.bilibili.com/video/BV1MA411j74g)
+
+（玩命更新ing...）
+
 # 编程语言C++
 
-* [大厂程序员教你如何学习C++](https://mp.weixin.qq.com/s/Gwtu4mc43YVFlX46yu_WDg)
 * [C++primer5笔记代码资料](https://github.com/youngyangyang04/TechCPP/tree/master/docs/C++primer5笔记代码资料)
 * C++: volatile static const extern等关键字 
 * 常用库函数实现
