@@ -2,14 +2,12 @@
 
 
 <p align="center">
-  <a href="#微信"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen" alt="微信群"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E4%BB%A3%E7%A0%81%E9%9A%8F%E6%83%B3%E5%BD%95-blue" alt="公众号"></a>
-  <a href="https://www.toutiao.com/c/user/60356270818/#mid=1633692776932365"><img src="https://img.shields.io/badge/toutiao-%E4%BB%A3%E7%A0%81%E9%9A%8F%E6%83%B3%E5%BD%95-yellow" alt=""></a>
-  <a href="https://www.zhihu.com/people/sun-xiu-yang-64"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt=""></a>
-  <a href="https://blog.csdn.net/youngyangyang04"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt=""></a>
-  <a href="https://cloud.tencent.com/developer/user/2226365/activities"><img src="https://img.shields.io/badge/%E8%85%BE%E8%AE%AF-%E4%BA%91%E7%A4%BE%E5%8C%BA-brightgreen" alt=""></a>
-  <a href="https://www.cnblogs.com/youngyangyang04/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt=""></a>
+  <a href="https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ"><img src="https://img.shields.io/badge/PDF下载-代码随想录-blueviolet" alt=""></a>
+  <a href="https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
+  <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
+  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
 </p>
+
 
 以下没有连接的内容就是还没有写，笔者正在拼命赶稿ing....
 
@@ -25,18 +23,19 @@
 # 编程语言C++
 
 * [C++primer5笔记代码资料](https://github.com/youngyangyang04/TechCPP/tree/master/docs/C++primer5笔记代码资料)
-* C++: volatile static const extern等关键字 
+* [volatile static const extern等关键字](./problems/volatile,static,const,extern等关键字.md) 
+* [宏定义和展开、内联函数区别](./problems/宏定义和展开、内联函数区别.md)
 * 常用库函数实现
     * malloc,strcpy,strcmp的实现，常用库函数实现，哪些库函数属于高危函数
-* STL原理及实现
-* 虚函数的作用和实现原理，什么是虚函数,有什么作用?
+* [STL原理及实现](./problems/STL原理及实现.md)
+* [虚函数的作用和实现原理，什么是虚函数,有什么作用?](./problems/虚函数的作用和实现原理，什么是虚函数,有什么作用?.md)
     * 纯虚函数，为什么需要纯虚函数？
-    * 为什么需要虚析构函数,什么时候不需要?父类的析构函数为什么要定义为虚函数?
-    * 内联函数、构造函数、静态成员函数可以是虚函数吗?
+    * [为什么需要虚析构函数,什么时候不需要?](./problems/为什么需要虚析构函数,什么时候不需要?.md)
+    * [内联函数、构造函数、静态成员函数可以是虚函数吗?](./problems/内联函数、构造函数、静态成员函数可以是虚函数吗?.md)
     * 构造函数中可以调用虚函数吗?
-    * 为什么需要虚继承?虚继承实现原理解析，
+    * [为什么需要虚继承?虚继承实现原理解析](./problems/为什么需要虚继承?.md)
 
-* C++ 内存分配机制
+* [C++ 内存分配机制](./problems/C++内存分配.md)
 * 指针
     * 迭代器与普通指针有什么区别 
     * C++的智能指针及其原理
