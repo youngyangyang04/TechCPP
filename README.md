@@ -1,15 +1,8 @@
-如下是C++后台研发技术路线以及知识点，这里有很多细节，还需要不断完善。 欢迎大家通过[【公众号】](#公众号) 或者加我[【微信】](#微信) 与我交流，一起成长一起进步！
+如下是C++后台研发技术路线以及知识点，这里有很多细节，还需要不断完善。 
 
+欢迎大家[提交PR](https://www.programmercarl.com/qita/join.html)来一起完善这个知识库，成为contributor！ 
 
-<p align="center">
-  <a href="https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ"><img src="https://img.shields.io/badge/PDF下载-代码随想录-blueviolet" alt=""></a>
-  <a href="https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
-  <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
-  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
-</p>
-
-
-以下没有连接的内容就是还没有写，笔者正在拼命赶稿ing....
+👉 如果你是编程零基础，或者想入门C++，推荐 [卡码网C++基础课](https://kamacoder.com/course.php?course_id=1)
 
 # C++primer B站视频讲解 
 
@@ -122,16 +115,6 @@
 # 程序员求职
 
 * [简历模板](https://github.com/youngyangyang04/Markdown-Resume-Template)
-* [程序员的简历应该这么写！！（附简历模板）](https://mp.weixin.qq.com/s/nCTUzuRTBo1_R_xagVszsA)
-* [适合新手练习的Github小项目（代码简单，功能实用）](https://mp.weixin.qq.com/s/Bc8Co6TiYxhbrzGLfSrISA)
-* [如何使用markdown来制作一份自己的简历](https://mp.weixin.qq.com/s/ejvKML-NmEzok15GOzs62A)
-* [BAT级别技术面试流程和注意事项都在这里了](https://mp.weixin.qq.com/s/815qCyFGVIxwut9I_7PNFw)
-* [北京有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/BKrjK4myNB-FYbMqW9f3yw)
-* [上海有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/iW4_rXQzc0fJDuSmPTUVdQ)
-* [深圳有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/3VJHF2zNohBwDBxARFIn-Q)
-* [广州有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/Ir_hQP0clbnvHrWzDL-qXg)
-* [成都有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/Y9Qg22WEsBngs8B-K8acqQ)
-* [杭州有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/33FmPJYrOU-ygovoxIaEUw)
 
 
 # 程序员的工具
@@ -139,8 +122,6 @@
 工欲善其事必先利其器
 
 * [vim配置](https://github.com/youngyangyang04/PowerVim)
-* [程序员为什么要使用Markdown](https://mp.weixin.qq.com/s/IYbHXABVsFETXW66DYd5nA)
-* [程序员应该常逛哪些资讯类网站](https://mp.weixin.qq.com/s/ScMTuJ4WnlQTAbYk0_jeXA)
 
 
 # 适合新手的开源项目
@@ -153,21 +134,12 @@
 
 # 关于作者
 
-大家好，我是程序员Carl，哈工大师兄，ACM 校赛、黑龙江省赛、东北四省赛金牌、亚洲区域赛铜牌获得者，先后在腾讯和百度从事后端技术研发，CSDN博客专家。对算法和C++后端技术有一定的见解，利用工作之余重新刷leetcode。
+大家好，我是程序员Carl，[《代码随想录》](https://programmercarl.com/other/publish.html)作者，哈工大师兄，先后在腾讯和百度从事分布式技术研发。
 
-**加我的微信，备注：「个人简单介绍」+「组队刷题」**， 拉你进刷题群，每天一道经典题目分析，而且题目不是孤立的，每一道题目之间都是有关系的，都是由浅入深一脉相承的，所以学习效果最好是每篇连续着看，也许之前你会某些知识点，但是一直没有把知识点串起来，这里每天一篇文章就会帮你把知识点串起来。
+* [代码随想录网站](https://programmercarl.com)
+* [代码随想录Github](https://github.com/youngyangyang04/leetcode-master)
+* [代码随想录算法公开课](https://www.bilibili.com/video/BV1fA4y1o715)
+* [卡码网-专业ACM练习网站](https://kamacoder.com/)
 
 
-<a name="微信"></a>
-<img src="https://img-blog.csdnimg.cn/20200712232919673.jpeg" data-img="1" width="175" height="175">
-
-# 我的公众号
-
-更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：「666」可以获得所有算法专题原创PDF。
-
-**每天8：35准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，更有上万录友们在这里打卡学习，**来看看就你知道了，一定会发现相见恨晚！**
-
-<a name="公众号"></a>
-
-<img src="https://img-blog.csdnimg.cn/20200323202104335.jpg" data-img="1" width="200" height="200">
 
