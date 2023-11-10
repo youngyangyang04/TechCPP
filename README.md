@@ -31,7 +31,7 @@
 * [C++ 内存分配机制](./problems/C++内存分配.md)
 * 指针
     * [迭代器与普通指针有什么区别](./problems/迭代器与普通指针有什么区别.md) 
-    * C++的智能指针及其原理
+    * [C++的智能指针及其原理](./problems/C++的智能指针及其原理.md)
 * [override和overload的区别](./problems/override和overload的区别有那些.md)
 * 写string类的构造，析构，拷贝函数
 
@@ -43,7 +43,7 @@
 
 * [C++设计模式](https://github.com/youngyangyang04/DesignPattern)
 * C++单例模式 
-* 用C++设计一个不能被继承的类
+* [用C++设计一个不能被继承的类](./problems/用C++设计一个不能被继承的类.md)
 * 如何定义一个只能在堆上定义对象的类?栈上呢
 * 重类构造和析构的顺序
 
