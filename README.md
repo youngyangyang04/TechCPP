@@ -19,7 +19,7 @@
 * [volatile static const extern等关键字](./problems/volatile,static,const,extern等关键字.md) 
 * [宏定义和展开、内联函数区别](./problems/宏定义和展开、内联函数区别.md)
 * 常用库函数实现
-    * malloc,strcpy,strcmp的实现，常用库函数实现，哪些库函数属于高危函数
+    * [malloc,strcpy,strcmp的实现，常用库函数实现，哪些库函数属于高危函数](./problems/malloc,strcpy,strcmp的实现，常用库函数实现，哪些库函数属于高危函数.md)
 * [STL原理及实现](./problems/STL原理及实现.md)
 * [虚函数的作用和实现原理，什么是虚函数,有什么作用?](./problems/虚函数的作用和实现原理，什么是虚函数,有什么作用.md)
     * [纯虚函数，为什么需要纯虚函数？](./problems/纯虚函数，为什么需要纯虚函数.md)
@@ -42,7 +42,7 @@
 # 设计模式
 
 * [C++设计模式](https://github.com/youngyangyang04/DesignPattern)
-* C++单例模式 
+* [C++单例模式](./problems/C++单例模式.md) 
 * [用C++设计一个不能被继承的类](./problems/用C++设计一个不能被继承的类.md)
 * [如何定义一个只能在堆上定义对象的类?栈上呢](./problems/如何定义一个只能在堆上定义对象的类栈上呢.md)
 * 重类构造和析构的顺序
@@ -50,8 +50,8 @@
 # 操作系统 
 
 * linux的内存管理机制，内存寻址方式，什么叫虚拟内存，内存调页算法，任务调度算法 
-* 锁：互斥锁，乐观锁，悲观锁 
-    * 死锁必要条件及避免算法 
+* [锁：互斥锁，乐观锁，悲观锁](./problems/锁：互斥锁，乐观锁，悲观锁.md) 
+    * [死锁必要条件及避免算法](./problems/死锁必要条件及避免算法.md) 
 * 动态链接和静态链接的区别
 * 常见的信号、系统如何将一个信号通知到进程
 * linux系统的各类同步机制、linux系统的各类异步机制
