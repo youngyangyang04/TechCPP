@@ -60,7 +60,7 @@
 
 # linux 服务器
 * [32位系统一个进程最多有多少堆内存](./problems/32位系统一个进程最多有多少堆内存.md)
-* 五种I/O 模式:阻塞I/O,非阻塞 I/O,I/O 多路复用,信号驱动 I/O,异步 I/O
+* [五种I/O 模式:阻塞I/O,非阻塞 I/O,I/O 多路复用,信号驱动 I/O,异步 I/O](./problems/五种IO模式.md)
     * [select 模型和 poll 模型，epoll模型](./problems/select模型和poll模型epoll模型.md)
     * [socket服务端的实现，select和epoll的区别(必问)](./problems/socket服务端的实现，select和epoll的区别.md)
     * [epoll哪些触发模式，有啥区别？](./problems/epoll哪些触发模式，有啥区别？.md)
@@ -69,7 +69,7 @@
 
 # 计算机网络
 
-* TCP和UDP区别
+* [TCP和UDP区别](./problems/TCP和UDP区别.md)
 * TCP和UDP头部字节定义 
 * TCP和UDP三次握手和四次挥手状态及消息类型 
 * time_wait，close_wait状态产生原因，keepalive
