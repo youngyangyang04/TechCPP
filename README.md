@@ -49,7 +49,7 @@
 
 # 操作系统 
 
-* linux的内存管理机制，内存寻址方式，什么叫虚拟内存，内存调页算法，任务调度算法 
+* [linux的内存管理机制，内存寻址方式，什么叫虚拟内存，内存调页算法，任务调度算法](./problems/linux的内存管理机制内存寻址方式什么叫虚拟内存内存调页算法任务调度算法.md) 
 * [锁：互斥锁，乐观锁，悲观锁](./problems/锁：互斥锁，乐观锁，悲观锁.md) 
     * [死锁必要条件及避免算法](./problems/死锁必要条件及避免算法.md) 
 * [动态链接和静态链接的区别](./problems/动态链接和静态链接的区别.md)
@@ -70,11 +70,11 @@
 # 计算机网络
 
 * [TCP和UDP区别](./problems/TCP和UDP区别.md)
-* TCP和UDP头部字节定义 
-* TCP和UDP三次握手和四次挥手状态及消息类型 
-* time_wait，close_wait状态产生原因，keepalive
-* 什么是滑动窗口，超时重传
-* 列举你所知道的tcp选项
+* [TCP和UDP头部字节定义](./problems/TCP和UDP头部字节定义.md) 
+* [TCP和UDP三次握手和四次挥手状态及消息类型](./problems/TCP和UDP三次握手和四次挥手状态及消息类型.md) 
+* [time_wait，close_wait状态产生原因，keepalive](./problems/time_wait，close_wait状态产生原因，keepalive.md)
+* [什么是滑动窗口，超时重传](./problems/什么是滑动窗口，超时重传.md)
+* [列举你所知道的tcp选项](./problems/列举你所知道的tcp选项.md)
 * connect会阻塞检测及防止，socket什么情况下可读？ 
 * socket什么情况下可读？
 * connect会阻塞，怎么解决?(必考必问) 
