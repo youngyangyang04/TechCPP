@@ -75,9 +75,8 @@
 * [time_wait，close_wait状态产生原因，keepalive](./problems/time_wait，close_wait状态产生原因，keepalive.md)
 * [什么是滑动窗口，超时重传](./problems/什么是滑动窗口，超时重传.md)
 * [列举你所知道的tcp选项](./problems/列举你所知道的tcp选项.md)
-* connect会阻塞检测及防止，socket什么情况下可读？ 
-* socket什么情况下可读？
-* connect会阻塞，怎么解决?(必考必问) 
+* [socket什么情况下可读？](./problems/socket什么情况下可读？.md)
+* [connect会阻塞，怎么解决?(必考必问)](./problems/connect会阻塞怎么解决.md) 
 * keepalive是什么？如何使用？
 * 长连接和短连接 
 * UDP中使用connect的好处 
