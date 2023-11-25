@@ -77,8 +77,8 @@
 * [列举你所知道的tcp选项](./problems/列举你所知道的tcp选项.md)
 * [socket什么情况下可读？](./problems/socket什么情况下可读？.md)
 * [connect会阻塞，怎么解决?(必考必问)](./problems/connect会阻塞怎么解决.md) 
-* keepalive是什么？如何使用？
-* 长连接和短连接 
+* [keepalive是什么？如何使用？](./problems/keepalive是什么？如何使用？.md)
+* [长连接和短连接](./problems/长连接和短连接.md) 
 * UDP中使用connect的好处 
 * DNS和HTTP协议，HTTP请求方式 
 
