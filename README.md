@@ -79,8 +79,8 @@
 * [connect会阻塞，怎么解决?(必考必问)](./problems/connect会阻塞怎么解决.md) 
 * [keepalive是什么？如何使用？](./problems/keepalive是什么？如何使用？.md)
 * [长连接和短连接](./problems/长连接和短连接.md) 
-* UDP中使用connect的好处 
-* DNS和HTTP协议，HTTP请求方式 
+* [UDP中使用connect的好处](./problems/UDP中使用connect的好处.md) 
+* [DNS和HTTP协议，HTTP请求方式](./problems/DNS和HTTP协议，HTTP请求方式.md) 
 
 # 数据库 
 
