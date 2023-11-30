@@ -91,8 +91,8 @@
 * [乐观锁与悲观锁的区别](./problems/数据库中乐观锁与悲观锁的区别.md) 
 * [数据库范式:第一第二第三范式](./problems/数据库范式第一第二第三范式.md)
 * [数据库日志类型作用](./problems/数据库日志类型作用.md) 
-* B TREE 和B+TREE的区别 
-* union和join 
+* [B TREE 和B+TREE的区别](./problems/BTREE和B+TREE的区别.md) 
+* [union和join](./problems/union和join.md) 
 
 # 海量数据处理 
 
