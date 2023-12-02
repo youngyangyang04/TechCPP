@@ -57,6 +57,7 @@
 * [linux系统的各类同步机制、linux系统的各类异步机制](./problems/linux系统的各类同步机制、linux系统的各类异步机制.md)
 * [如何实现守护进程](./problems/如何实现守护进程.md)
 * [标准库函数和系统调用的区别](./problems/标准库函数和系统调用的区别.md)
+* [协程是什么，为什么需要协程](./problems/协程是什么，为什么需要协程.md)
 
 # linux 服务器
 * [32位系统一个进程最多有多少堆内存](./problems/32位系统一个进程最多有多少堆内存.md)
@@ -70,17 +71,32 @@
 # 计算机网络
 
 * [TCP和UDP区别](./problems/TCP和UDP区别.md)
+
 * [TCP和UDP头部字节定义](./problems/TCP和UDP头部字节定义.md) 
+
 * [TCP和UDP三次握手和四次挥手状态及消息类型](./problems/TCP和UDP三次握手和四次挥手状态及消息类型.md) 
+
 * [time_wait，close_wait状态产生原因，keepalive](./problems/time_wait，close_wait状态产生原因，keepalive.md)
+
 * [什么是滑动窗口，超时重传](./problems/什么是滑动窗口，超时重传.md)
+
 * [列举你所知道的tcp选项](./problems/列举你所知道的tcp选项.md)
+
 * [socket什么情况下可读？](./problems/socket什么情况下可读？.md)
+
 * [connect会阻塞，怎么解决?(必考必问)](./problems/connect会阻塞怎么解决.md) 
+
 * [keepalive是什么？如何使用？](./problems/keepalive是什么？如何使用？.md)
+
 * [长连接和短连接](./problems/长连接和短连接.md) 
+
 * [UDP中使用connect的好处](./problems/UDP中使用connect的好处.md) 
+
 * [DNS和HTTP协议，HTTP请求方式](./problems/DNS和HTTP协议，HTTP请求方式.md) 
+
+* [SYN队列和ACCEPT队列](./problems/SYN队列和Accept队列.md)
+
+  
 
 # 数据库 
 
@@ -91,8 +107,8 @@
 * [乐观锁与悲观锁的区别](./problems/数据库中乐观锁与悲观锁的区别.md) 
 * [数据库范式:第一第二第三范式](./problems/数据库范式第一第二第三范式.md)
 * [数据库日志类型作用](./problems/数据库日志类型作用.md) 
-* B TREE 和B+TREE的区别 
-* union和join 
+* [B TREE 和B+TREE的区别](./problems/BTREE和B+TREE的区别.md) 
+* [union和join](./problems/union和join.md) 
 
 # 海量数据处理 
 
