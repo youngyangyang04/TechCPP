@@ -96,6 +96,8 @@
 
 * [SYN队列和ACCEPT队列](./problems/SYN队列和Accept队列.md)
 
+* [SYN队列溢出了怎么办](./problems/SYN队列溢出了怎么办.md)
+
   
 
 # 数据库 
@@ -109,6 +111,7 @@
 * [数据库日志类型作用](./problems/数据库日志类型作用.md) 
 * [B TREE 和B+TREE的区别](./problems/BTREE和B+TREE的区别.md) 
 * [union和join](./problems/union和join.md) 
+* [Innodb和Myisam的区别](./problems/Innodb和Myisam的区别.md)
 
 # 海量数据处理 
 
