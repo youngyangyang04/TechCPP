@@ -72,6 +72,10 @@
 
 * [TCP和UDP区别](./problems/TCP和UDP区别.md)
 
+* [TCP和UDP各自的有点](./problems/TCP和UDP的区别.md)
+
+* [TCP和UDP的首部长什么样子](./problems/TCP和UDP首部长什么样子？.md)
+
 * [TCP和UDP头部字节定义](./problems/TCP和UDP头部字节定义.md) 
 
 * [TCP和UDP三次握手和四次挥手状态及消息类型](./problems/TCP和UDP三次握手和四次挥手状态及消息类型.md) 
