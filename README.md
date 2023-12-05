@@ -32,6 +32,8 @@
 * 指针
     * [迭代器与普通指针有什么区别](./problems/迭代器与普通指针有什么区别.md) 
     * [C++的智能指针及其原理](./problems/C++的智能指针及其原理.md)
+    * [悬挂指针和野指针有什么区别？](./problems/悬挂指针和野指针有什么区别？.md)
+    * [指针常量和常量指针的区别](./problems/指针常量和常量指针的区别.md)
 * [override和overload的区别](./problems/override和overload的区别有那些.md)
 * [写string类的构造，析构，拷贝函数](./problems/写string类的构造，析构，拷贝函数.md)
 
