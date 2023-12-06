@@ -36,6 +36,8 @@
     * [指针常量和常量指针的区别](./problems/指针常量和常量指针的区别.md)
 * [override和overload的区别](./problems/override和overload的区别有那些.md)
 * [写string类的构造，析构，拷贝函数](./problems/写string类的构造，析构，拷贝函数.md)
+* [C++中类成员的访问权限有那些？](./problems/C++中类成员的访问权限有那些？.md)
+* [C++多态的实现有那几种？他们有什么不同？](./problems/C++多态的实现有那几种？他们有什么不同？.md)
 
 # 数据结构与算法
 
