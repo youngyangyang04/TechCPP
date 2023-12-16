@@ -136,6 +136,8 @@
 * [B TREE 和B+TREE的区别](./problems/BTREE和B+TREE的区别.md) 
 * [union和join](./problems/union和join.md) 
 * [Innodb和Myisam的区别](./problems/Innodb和Myisam的区别.md)
+* [mysql架构是什么样的？](./problems/mysql架构是什么样的？.md)
+* [一条SQL语句在数据库框架中的执行过程](./problems/一条SQL语句在数据库框架中的执行过程.md)
 
 # 海量数据处理 
 
