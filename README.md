@@ -36,6 +36,8 @@
     * [C++的智能指针及其原理](./problems/C++的智能指针及其原理.md)
     * [悬挂指针和野指针有什么区别？](./problems/悬挂指针和野指针有什么区别？.md)
     * [指针常量和常量指针的区别](./problems/指针常量和常量指针的区别.md)
+    * [指针和引用有什么区别呢？](./problems/如何避免悬挂指针？.md)
+    * [如何避免悬挂指针？](./problems/如何避免悬挂指针？.md)
 * [override和overload的区别](./problems/override和overload的区别有那些.md)
 * [写string类的构造，析构，拷贝函数](./problems/写string类的构造，析构，拷贝函数.md)
 * [C++中类成员的访问权限有那些？](./problems/C++中类成员的访问权限有那些？.md)
@@ -134,6 +136,8 @@
 * [B TREE 和B+TREE的区别](./problems/BTREE和B+TREE的区别.md) 
 * [union和join](./problems/union和join.md) 
 * [Innodb和Myisam的区别](./problems/Innodb和Myisam的区别.md)
+* [mysql架构是什么样的？](./problems/mysql架构是什么样的？.md)
+* [一条SQL语句在数据库框架中的执行过程](./problems/一条SQL语句在数据库框架中的执行过程.md)
 
 # 海量数据处理 
 
