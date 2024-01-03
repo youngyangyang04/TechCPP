@@ -147,6 +147,8 @@
 * [mysql为啥会产生死锁呢？如何避免他？](./problems/mysql为啥会产生死锁呢？如何避免他？.md)
 * [在Mysql中，数据要写入磁盘，redolog也要写入磁盘，为什么要多此一举？](./problems/在Mysql中，数据要写入磁盘，redolog也要写入磁盘，为什么要多此一举？.md)
 * [MySQL的行级锁有那些种类？](./problems/MySQL的行级锁有那些种类？.md)
+* [mysql索引失效有哪几种情况？](./problems/mysql索引失效有哪几种情况？.md)
+* [数据库事务隔离级别有那些？](./problems/数据库事务隔离级别有那些？.md)
 
 # 海量数据处理 
 
