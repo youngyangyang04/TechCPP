@@ -94,6 +94,10 @@
 
 # 计算机网络
 
+* [OSI七层模型分别是？各自的功能分别是什么？](./problems/OSI七层模型分别是？各自的功能分别是什么？.md)
+
+* [为什么需要三次握手，两次不行？](./problems/为什么需要三次握手，两次不行？.md)
+
 * [TCP和UDP区别](./problems/TCP和UDP区别.md)
 
 * [TCP和UDP各自的有点](./problems/TCP和UDP的区别.md)
