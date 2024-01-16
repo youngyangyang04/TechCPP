@@ -163,6 +163,10 @@
 * [MySQL的行级锁有那些种类？](./problems/MySQL的行级锁有那些种类？.md)
 * [mysql索引失效有哪几种情况？](./problems/mysql索引失效有哪几种情况？.md)
 * [数据库事务隔离级别有那些？](./problems/数据库事务隔离级别有那些？.md)
+* [mysql数据库中，产生的redolog都会直接写入磁盘吗？](./problems/mysql数据库中，产生的redolog都会直接写入磁盘吗？.md)
+* [数据库的ACID特性](./problems/数据库的ACID特性.md)
+* [MySQL的主从复制是如何实现的？](./problems/MySQL的主从复制是如何实现的？.md)
+* [mysql的索引都有那些？](./problems/mysql的索引都有那些？.md)
 
 # 海量数据处理 
 
