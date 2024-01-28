@@ -64,6 +64,8 @@
 * [如果A这个指针指向一个数组，那么sizeof(A)的值是多少？](./problems/如果A这个指针指向一个数组，那么sizeof(A)的值是多少？.md)
 * [如果A是某一个类的指针，那么在它等于nullptr的情况下能直接调用里面的A对应类里面的public函数吗？](./problems/如果A是某一个类的指针，那么在它等于nullptr的情况下能直接调用里面的A对应类里面的public函数吗？.md)
 * [STL中一般都有那些常见的算法库呢？](./problems/STL中一般都有那些常见的算法库呢？.md)
+* [C++中，结构体可以直接赋值吗？](./problems/C++中，结构体可以直接赋值吗？.md)
+* [\#define和const的区别有那些？](./problems/\#define和const的区别有那些？.md)
 
 # 数据结构与算法
 
