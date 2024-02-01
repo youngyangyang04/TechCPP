@@ -66,6 +66,12 @@
 * [STL中一般都有那些常见的算法库呢？](./problems/STL中一般都有那些常见的算法库呢？.md)
 * [C++中，结构体可以直接赋值吗？](./problems/C++中，结构体可以直接赋值吗？.md)
 * [\#define和const的区别有那些？](./problems/\#define和const的区别有那些？.md)
+* [在C++的map中，[]与insert有那些区别？](./problems/在C++的map中，[]与insert有那些区别？.md)
+* [在32位和64位系统中，指针分别为多大？](./problems/在32位和64位系统中，指针分别为多大？.md)
+* [weak_ptr是如何解决shared_ptr循环引用的？](./problems/weak_ptr是如何解决shared_ptr循环引用的？.md)
+* [虚函数是否可以声明为static？](./problems/虚函数是否可以声明为static？.md)
+* [如何使用gdb来定位C++程序中的死锁？](./problems/如何使用gdb来定位C++程序中的死锁？.md)
+* [C++中常用的类优化技术有那些？](./problems/C++中常用的类优化技术有那些？.md)
 
 # 数据结构与算法
 
