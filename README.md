@@ -78,6 +78,16 @@
 * [什么是完美转发？](./problems/什么是完美转发？.md)
 * [C++中四种cast的转换？](./problems/C++中四种cast的转换？.md)
 * [内存池是什么？在C++中如何设计一个简单的内存池？](./problems/内存池是什么？在C++中如何设计一个简单的内存池？.md)
+* [STL中，map的底层是如何实现的？](./problems/STL中，map的底层是如何实现的？.md)
+* [STL中，set的底层是如何实现的？](./problems/STL中，set的底层是如何实现的？.md)
+* [set，mutiset，map，mutimap之间都有什么区别？](./problems/set，mutiset，map，mutimap之间都有什么区别？.md)
+* [在C++的算法库中，find()和binary_search()有什么区别？](./problems/在C++的算法库中，find()和binary_search()有什么区别？.md)
+* [lower_bound()和upper_bound()有什么区别？](./problems/lower_bound()和upper_bound()有什么区别？.md)
+* [为什么需要allocator？他在STL中有什么作用？](./problems/为什么需要allocator？他在STL中有什么作用？.md)
+* [什么是RAII原则，他在STL是怎么应用的？](./problems/什么是RAII原则，他在STL是怎么应用的？.md)
+* [STL容器是线程安全的吗？](./problems/STL容器是线程安全的吗？.md)
+* [什么是泛型编程，他在STL中是怎么使用的？](./problems/什么是泛型编程，他在STL中是怎么使用的？.md)
+* [如何选择合适的STL容器](./problems/如何选择合适的STL容器.md)
 
 # 数据结构与算法
 
