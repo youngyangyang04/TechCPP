@@ -187,6 +187,34 @@
 
 * [在TCP三次握手的时候，如果网络情况非常好且百分百不会发生拥塞，不会重传，不会有历史链接问题，那么三次握手可以改为两次吗？](./problems/在TCP三次握手的时候，如果网络情况非常好且百分百不会发生拥塞，不会重传，不会有历史链接问题，那么三次握手可以改为两次吗？.md)
 
+* [请你介绍一下http1.0](./problems/请你介绍一下http1.0.md)
+
+* [请你介绍一下http1.1](./problems/请你介绍一下http1.1.md)
+
+* [请你介绍一下http2.0](./problems/请你介绍一下http2.0.md)
+
+* [请你介绍一下http3.0](./problems/请你介绍一下http3.0.md)
+
+* [POST和GET的主要区别有那些？](./problems/POST和GET的主要区别有那些？.md)
+
+* [GET请求中，URL编码有什么含义？](./problems/GET请求中，URL编码有什么含义？.md)
+
+* [HTTP方法都有那些？](./problems/HTTP方法都有那些？.md)
+
+* [HTTP中常用的状态码都有那些？](./problems/HTTP中常用的状态码都有那些？.md)
+
+* [HTTP长连接和短链接都用在那些场景？](./problems/HTTP长连接和短链接都用在那些场景？.md)
+
+* [对称加密和非对称加密的区别都有那些？](./problems/对称加密和非对称加密的区别都有那些？.md)
+
+* [DNS解析的过程？](./problems/DNS解析的过程？.md)
+
+* [为什么DNS会使用UDP而不使用TCP呢？](./problems/为什么DNS会使用UDP而不使用TCP呢？.md)
+
+* [Cookie和Session](./problems/Cookie和SessioN.md)
+
+* [DNS域名缓存是什么？](./problems/DNS域名缓存是什么？.md)
+
   
 
 # 数据库 
