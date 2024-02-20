@@ -215,6 +215,20 @@
 
 * [DNS域名缓存是什么？](./problems/DNS域名缓存是什么？.md)
 
+* [TCP和UDP对应常见的应用层协议有那些](./problems/TCP和UDP对应常见的应用层协议有那些.md)
+
+* [说说你对TCP滑动窗口的理解？](./problems/说说你对TCP滑动窗口的理解？.md)
+
+* [TCP协议是如何保证可靠传输的？](./problems/TCP协议是如何保证可靠传输的？.md)
+
+* [什么是拆包和粘包？](./problems/什么是拆包和粘包？.md)
+
+* [说说你对TCP流量控制的理解？](./problems/说说你对TCP流量控制的理解？.md)
+
+* [TCP粘包是怎么产生的？](./problems/TCP粘包是怎么产生的？.md)
+
+* [在TCP拥塞控制中，使用了什么样的算法？](./problems/在TCP拥塞控制中，使用了什么样的算法？.md)
+
   
 
 # 数据库 
