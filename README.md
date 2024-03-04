@@ -229,6 +229,18 @@
 
 * [在TCP拥塞控制中，使用了什么样的算法？](./problems/在TCP拥塞控制中，使用了什么样的算法？.md)
 
+* [forward和redirect的区别是什么？](./problems/forward和redirect的区别是什么？.md)
+
+* [TCP的最大连接数是多少？](./problems/TCP的最大连接数是多少？.md)
+
+* [什么是IP地址？可以简单介绍下吗？](./problems/什么是IP地址？可以简单介绍下吗？.md)
+
+* [什么是mac地址？可以简单介绍下吗？](./problems/什么是mac地址？可以简单介绍下吗？.md)
+
+* [ip地址和mac地址的区别都有那些？](./problems/ip地址和mac地址的区别都有那些？.md)
+
+* [针对于ipv4地址不够用的情况，我们是如何解决的？](,.problems/针对于ipv4地址不够用的情况，我们是如何解决的？.md)
+
   
 
 # 数据库 
