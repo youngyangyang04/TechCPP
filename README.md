@@ -289,6 +289,21 @@
 * [数据库的ACID特性](./problems/数据库的ACID特性.md)
 * [MySQL的主从复制是如何实现的？](./problems/MySQL的主从复制是如何实现的？.md)
 * [mysql的索引都有那些？](./problems/mysql的索引都有那些？.md)
+* [Redis 有什么作用？为什么要用 Redis](./problems/Redis有什么作用？为什么要用Redis.md)
+* [Redis 的底层数据结构有哪些](./problems/Redis的底层数据结构有哪些.md)
+* [介绍 intset 及其升级过程，支持降级吗](介绍intset及其升级过程，支持降级吗.md)
+* [介绍 SDS，Redis 为什么要使用 SDS 而不是 C 字符串](./problems/介绍SDS，Redis为什么要使用SDS而不是C字符串.md)
+* [介绍 dict，什么是 rehash？什么是渐进式 rehash](./problems/介绍dict，什么是rehash？什么是渐进式rehash.md)
+* [介绍 ziplist，什么是连锁更新？quicklist、lispack](./problems/介绍ziplist，什么是连锁更新？quicklist、lispack.md)
+* [介绍 Redis 的 skiplist](./problems/介绍Redis的skiplist.md)
+* [Redis 数据类型（对象）有哪些](./problems/Redis数据类型（对象）有哪些.md)
+* [Redis String 原理和使用场景（分布式锁）](./problems/RedisString原理和使用场景（分布式锁）.md)
+* [Redis List 的原理和使用场景](./problems/RedisList的原理和使用场景.md)
+* [Redis Set 的原理和使用场景](./problems/RedisSet的原理和使用场景.md)
+* [Redis ZSet 的原理和使用场景（延迟队列）](./problems/RedisZSet的原理和使用场景（延迟队列）.md)
+* [为什么 Zset 需要同时使用跳表和字典来实现？](./problems/为什么Zset需要同时使用跳表和字典来实现？.md)
+* [为什么 Redis 使用跳表而不是红黑树来实现 Zset](./problems/为什么Redis使用跳表而不是红黑树来实现Zset.md)
+* [Redis Hash 的原理和使用场景](./problems/RedisHash的原理和使用场景.md)
 
 # 海量数据处理 
 
