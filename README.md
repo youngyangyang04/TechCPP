@@ -304,6 +304,21 @@
 * [为什么 Zset 需要同时使用跳表和字典来实现？](./problems/为什么Zset需要同时使用跳表和字典来实现？.md)
 * [为什么 Redis 使用跳表而不是红黑树来实现 Zset](./problems/为什么Redis使用跳表而不是红黑树来实现Zset.md)
 * [Redis Hash 的原理和使用场景](./problems/RedisHash的原理和使用场景.md)
+* [Redis的HyperLogLog的原理和使用场景](./problems/Redis的HyperLogLog的原理和使用场景.md)
+* [Redis的Bitmap的原理和使用场景](./problems/Redis的Bitmap的原理和使用场景.md)
+* [Redis中Stream的原理和使用场景](./problems/Redis中Stream的原理和使用场景.md)
+* [Redis中数据（键值对）是怎么存储的](./problems/Redis中数据（键值对）是怎么存储的.md)
+* [Redis如何判断键是否过期？过期键的删除策略有哪些](./problems/Redis如何判断键是否过期？过期键的删除策略有哪些.md)
+* [Redis的key设定24h过期时间，那么24h后就一定会过期吗](./problems/Redis的ke设定24h过期时间，那么24h后就一定会过期吗.md)
+* [Redis内存淘汰策略](./problems/Redis内存淘汰策略.md)
+* [Redis的两种持久化方式（RDB 和 AOF）以及优缺点](./problems/Redis的两种持久化方式（RDB 和 AOF）以及优缺点.md)
+* [为什么AOF后台重写和BGSAVE命令都用子进程而不是线程？](./problems/为什么AOF后台重写和BGSAVE命令都用子进程而不是线程？.md)
+* [Redis是单线程还是多线程？Redis6.0之后为何又引入了多线程](./problems/Redis是单线程还是多线程？Redis6.0之后为何又引入了多线程.md)
+* [Redis不是单线程吗，为什么会存在并发安全问题](./problems/Redis不是单线程吗，为什么会存在并发安全问题.md)
+* [Redis单线程在多核机器里使用会不会浪费机器资源](./problems/Redis单线程在多核机器里使用会不会浪费机器资源.md)
+* [讲一讲Redis主从复制](./problems/讲一讲Redis主从复制.md)
+* [讲一讲Redis的哨兵](./problems/讲一讲Redis的哨兵.md)
+* [讲一讲Redis的集群](./problems/讲一讲Redis的集群.md)
 
 # 海量数据处理 
 
