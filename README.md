@@ -319,6 +319,17 @@
 * [讲一讲Redis主从复制](./problems/讲一讲Redis主从复制.md)
 * [讲一讲Redis的哨兵](./problems/讲一讲Redis的哨兵.md)
 * [讲一讲Redis的集群](./problems/讲一讲Redis的集群.md)
+* [Redis主从复制、哨兵、集群的区别](./problems/Redis主从复制、哨兵、集群的区别.md)
+* [什么是一致性哈希，Redis集群为什么不用一致性哈希](./problems/什么是一致性哈希，Redis集群为什么不用一致性哈希.md)
+* [如何解决Redis集群数据丢失问题（异步复制、集群脑裂）](./problems/如何解决Redis集群数据丢失问题（异步复制、集群脑裂）.md)
+* [介绍Redis事务（Redis能实现ACID吗）](./problems/介绍Redis事务（Redis能实现ACID吗）.md)
+* [Redis缓存穿透问题及其解决方案](./problems/Redis缓存穿透问题及其解决方案.md)
+* [Redis缓存雪崩问题及其解决方案](./problems/Redis缓存雪崩问题及其解决方案.md)
+* [Redis缓存击穿问题及其解决方案](./problems/Redis缓存击穿问题及其解决方案.md)
+* [Redis的BigKey问题及其解决方案](./problems/Redis的BigKey问题及其解决方案.md)
+* [如何解决缓存和数据库一致性问题](./problems/如何解决缓存和数据库一致性问题.md)
+* [Redis和Memcached的区别](./problems/Redis和Memcached的区别.md)
+* [Redis为什么这么快](./problems/Redis为什么这么快.md)
 
 # 海量数据处理 
 
