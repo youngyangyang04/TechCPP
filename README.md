@@ -311,7 +311,7 @@
 * [Redis如何判断键是否过期？过期键的删除策略有哪些](./problems/Redis如何判断键是否过期？过期键的删除策略有哪些.md)
 * [Redis的key设定24h过期时间，那么24h后就一定会过期吗](./problems/Redis的ke设定24h过期时间，那么24h后就一定会过期吗.md)
 * [Redis内存淘汰策略](./problems/Redis内存淘汰策略.md)
-* [Redis的两种持久化方式（RDB 和 AOF）以及优缺点](./problems/Redis的两种持久化方式（RDB 和 AOF）以及优缺点.md)
+* [Redis的两种持久化方式（RDB和AOF）以及优缺点](./problems/Redis的两种持久化方式（RDB 和 AOF）以及优缺点.md)
 * [为什么AOF后台重写和BGSAVE命令都用子进程而不是线程？](./problems/为什么AOF后台重写和BGSAVE命令都用子进程而不是线程？.md)
 * [Redis是单线程还是多线程？Redis6.0之后为何又引入了多线程](./problems/Redis是单线程还是多线程？Redis6.0之后为何又引入了多线程.md)
 * [Redis不是单线程吗，为什么会存在并发安全问题](./problems/Redis不是单线程吗，为什么会存在并发安全问题.md)
