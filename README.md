@@ -311,7 +311,7 @@
 * [Redis如何判断键是否过期？过期键的删除策略有哪些](./problems/Redis如何判断键是否过期？过期键的删除策略有哪些.md)
 * [Redis的key设定24h过期时间，那么24h后就一定会过期吗](./problems/Redis的ke设定24h过期时间，那么24h后就一定会过期吗.md)
 * [Redis内存淘汰策略](./problems/Redis内存淘汰策略.md)
-* [Redis的两种持久化方式（RDB 和 AOF）以及优缺点](./problems/Redis的两种持久化方式（RDB 和 AOF）以及优缺点.md)
+* [Redis的两种持久化方式以及优缺点](./problems/Redis的两种持久化方式以及优缺点.md)
 * [为什么AOF后台重写和BGSAVE命令都用子进程而不是线程？](./problems/为什么AOF后台重写和BGSAVE命令都用子进程而不是线程？.md)
 * [Redis是单线程还是多线程？Redis6.0之后为何又引入了多线程](./problems/Redis是单线程还是多线程？Redis6.0之后为何又引入了多线程.md)
 * [Redis不是单线程吗，为什么会存在并发安全问题](./problems/Redis不是单线程吗，为什么会存在并发安全问题.md)
@@ -319,6 +319,17 @@
 * [讲一讲Redis主从复制](./problems/讲一讲Redis主从复制.md)
 * [讲一讲Redis的哨兵](./problems/讲一讲Redis的哨兵.md)
 * [讲一讲Redis的集群](./problems/讲一讲Redis的集群.md)
+* [Redis主从复制、哨兵、集群的区别](./problems/Redis主从复制、哨兵、集群的区别.md)
+* [什么是一致性哈希，Redis集群为什么不用一致性哈希](./problems/什么是一致性哈希，Redis集群为什么不用一致性哈希.md)
+* [如何解决Redis集群数据丢失问题（异步复制、集群脑裂）](./problems/如何解决Redis集群数据丢失问题（异步复制、集群脑裂）.md)
+* [介绍Redis事务（Redis能实现ACID吗）](./problems/介绍Redis事务（Redis能实现ACID吗）.md)
+* [Redis缓存穿透问题及其解决方案](./problems/Redis缓存穿透问题及其解决方案.md)
+* [Redis缓存雪崩问题及其解决方案](./problems/Redis缓存雪崩问题及其解决方案.md)
+* [Redis缓存击穿问题及其解决方案](./problems/Redis缓存击穿问题及其解决方案.md)
+* [Redis的BigKey问题及其解决方案](./problems/Redis的BigKey问题及其解决方案.md)
+* [如何解决缓存和数据库一致性问题](./problems/如何解决缓存和数据库一致性问题.md)
+* [Redis和Memcached的区别](./problems/Redis和Memcached的区别.md)
+* [Redis为什么这么快](./problems/Redis为什么这么快.md)
 
 # 海量数据处理 
 
