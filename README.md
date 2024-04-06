@@ -2,7 +2,9 @@
 
 欢迎大家[提交PR](https://www.programmercarl.com/qita/join.html)来一起完善这个知识库，成为contributor！ 
 
-👉 如果你是编程零基础，或者想入门C++，推荐 [卡码网C++基础课](https://kamacoder.com/course.php?course_id=1)
+👉 如果你是编程零基础，或者想入门C++，推荐 [【卡码网】C++基础课](https://kamacoder.com/course.php?course_id=1)
+👉 如果你有C++基础，想手写STL，推荐 [【卡码网】手写简单版本STL（C++）](https://kamacoder.com/course.php?course_id=10)
+
 
 # C++primer B站视频讲解 
 
