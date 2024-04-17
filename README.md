@@ -358,10 +358,10 @@
 
 # 海量数据处理 
 
-* bitmap 
-* Map-Reduce原理 
-* BloomFilter原理 
-* Trie树原理 
+* [bitmap](./problems/bitmap.md) 
+* [Map-Reduce原理](./problems/Map-Reduce原理.md) 
+* [BloomFilter原理](./problems/BloomFilter原理.md) 
+* [Trie树原理](./problems/Trie树原理.md) 
 * LSM树原理 
 
 # linux下操作命令以及工具
